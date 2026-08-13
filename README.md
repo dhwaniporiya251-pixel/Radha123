@@ -1,4 +1,4 @@
-# Hi there, I'm [Tamaru Naam] 👋 
+# Hi there, I'm [Dhwani Poriya] 👋 
 
 ### 🚀 Backend Developer | PHP & Laravel Enthusiast | Java Developer
 
